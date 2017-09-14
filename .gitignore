@@ -1,0 +1,9 @@
+/AndoidCIDemo/.gradle
+/AndoidCIDemo/local.properties
+/AndoidCIDemo/.DS_Store
+/AndoidCIDemo/build
+/AndoidCIDemo/captures
+
+# Idea related files
+.idea
+*.iml
