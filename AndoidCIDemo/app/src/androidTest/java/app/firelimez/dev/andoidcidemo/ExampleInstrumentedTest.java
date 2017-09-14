@@ -23,4 +23,9 @@ public class ExampleInstrumentedTest {
 
         assertEquals("app.firelimez.dev.andoidcidemo", appContext.getPackageName());
     }
+
+    @Test
+    public void testLogic() throws Exception {
+        assertEquals(1, 2);
+    }
 }
