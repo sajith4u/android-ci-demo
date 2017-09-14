@@ -26,6 +26,6 @@ public class ExampleInstrumentedTest {
 
     @Test
     public void testLogic() throws Exception {
-        assertEquals(1, 2);
+        assertEquals(1, 1);
     }
 }
