@@ -5,7 +5,7 @@
 version: 2
 jobs:
   build:
-    working_directory: ~/AndoidCIDemo
+    working_directory: ~/AndoidCIDemo/
     docker:
       - image: circleci/android:api-25-alpha
     environment:
